@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&display=swap');
 
-body {
+html, body {
   padding: 0;
   margin: 0;
   background-color: #faebd7;
